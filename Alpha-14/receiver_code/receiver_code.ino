@@ -1,4 +1,4 @@
-// ask_receiver.pde
+//receiver sketch
 // -*- mode: C++ -*-
 // Simple example of how to use RadioHead to receive messages
 // with a simple ASK transmitter in a very simple way.
