@@ -1,0 +1,12 @@
+///////////////////////////////////////////GROUP ALPHA 4///////////////////////////////////////////////////////////////////
+
+NAMES                           BRANCH                                 PART
+
+
+1.Aryan Pratyush Nayak          EEE                              circuitdesigning,simulation,researh
+
+2.Asmita Meher                  EE                               simulation,circuitdesigning,research
+
+3.Narattom jena                 CHE                              coding,circuitdesigning,research
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
